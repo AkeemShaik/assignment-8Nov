@@ -1,0 +1,135 @@
+
+
+#head{
+    border: 2px solid rgb(101, 0, 110);
+    background: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;  
+}
+
+
+#bdy{
+    
+    background-image: url("https://images.pexels.com/photos/7511010/pexels-photo-7511010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+#weather{
+    font-size: 55px;
+    color: cornsilk; 
+    text-decoration: none;
+}
+
+#home{
+    color: coral;
+}
+
+#home:hover{
+    color:rgb(255, 0, 0);
+}
+
+.menu{
+    display: inline-block;
+    text-decoration: none;
+    text-shadow: 5px;
+}
+
+#nav{
+    border: 2px solid black;
+    margin-top: 10px;
+    text-align: center; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    background-color: cornsilk;
+    text-decoration: none;
+}
+
+#sec{
+    display: inline-block
+}
+
+#section{
+    display: inline-block;
+    border: 2px solid black;
+    margin-top: 10px;
+    width: 870px;
+    height: 400px;
+    border-radius: 10px;
+    text-decoration: none;
+    
+   
+}
+
+#content{
+    color: rgb(14, 16, 19);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.content1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#para{
+    color: blue;
+}
+
+
+#container{
+    margin-top: 10px;
+    border-radius: 10px;
+    float: right;
+
+    border: 2px solid rebeccapurple;
+    width: 1000px;
+    height: 830px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+
+#article{
+    display: inline-block;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 10px;
+    width: 850px;
+    height: 400px;
+    
+}
+
+#sec1{
+    background-color: rgb(0, 0, 0);
+}
+
+.png{
+   
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+
+#follow{
+    color: rgb(255, 255, 255);
+    text-transform: capitalize ;
+}
+
+#footer{
+    font-family: Georgia, serif;
+    text-align: center;
+    font-size: 15px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    margin-top: 30px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+
+#foot{
+    background-color: yellowgreen;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
